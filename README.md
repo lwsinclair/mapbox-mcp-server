@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aidenyangx-mapbox-mcp-server-badge.png)](https://mseep.ai/app/aidenyangx-mapbox-mcp-server)
+
 <!--
  * @Author: AidenYangX
  * @Email: xscs709560271@gmail.com
